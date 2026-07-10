@@ -1,0 +1,17 @@
+/Users/smlmrt/Desktop/kod_denemeleri/dotnet_kod/kelime_uygulamasi/RentCar/RentCar.Application/bin/Debug/net10.0/RentCar.Application.deps.json
+/Users/smlmrt/Desktop/kod_denemeleri/dotnet_kod/kelime_uygulamasi/RentCar/RentCar.Application/bin/Debug/net10.0/RentCar.Application.dll
+/Users/smlmrt/Desktop/kod_denemeleri/dotnet_kod/kelime_uygulamasi/RentCar/RentCar.Application/bin/Debug/net10.0/RentCar.Application.pdb
+/Users/smlmrt/Desktop/kod_denemeleri/dotnet_kod/kelime_uygulamasi/RentCar/RentCar.Application/bin/Debug/net10.0/RentCar.Domain.dll
+/Users/smlmrt/Desktop/kod_denemeleri/dotnet_kod/kelime_uygulamasi/RentCar/RentCar.Application/bin/Debug/net10.0/RentCar.Shared.dll
+/Users/smlmrt/Desktop/kod_denemeleri/dotnet_kod/kelime_uygulamasi/RentCar/RentCar.Application/bin/Debug/net10.0/RentCar.Domain.pdb
+/Users/smlmrt/Desktop/kod_denemeleri/dotnet_kod/kelime_uygulamasi/RentCar/RentCar.Application/bin/Debug/net10.0/RentCar.Shared.pdb
+/Users/smlmrt/Desktop/kod_denemeleri/dotnet_kod/kelime_uygulamasi/RentCar/RentCar.Application/obj/Debug/net10.0/RentCar.Application.csproj.AssemblyReference.cache
+/Users/smlmrt/Desktop/kod_denemeleri/dotnet_kod/kelime_uygulamasi/RentCar/RentCar.Application/obj/Debug/net10.0/RentCar.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/smlmrt/Desktop/kod_denemeleri/dotnet_kod/kelime_uygulamasi/RentCar/RentCar.Application/obj/Debug/net10.0/RentCar.Application.AssemblyInfoInputs.cache
+/Users/smlmrt/Desktop/kod_denemeleri/dotnet_kod/kelime_uygulamasi/RentCar/RentCar.Application/obj/Debug/net10.0/RentCar.Application.AssemblyInfo.cs
+/Users/smlmrt/Desktop/kod_denemeleri/dotnet_kod/kelime_uygulamasi/RentCar/RentCar.Application/obj/Debug/net10.0/RentCar.Application.csproj.CoreCompileInputs.cache
+/Users/smlmrt/Desktop/kod_denemeleri/dotnet_kod/kelime_uygulamasi/RentCar/RentCar.Application/obj/Debug/net10.0/RentCar..8E321AFC.Up2Date
+/Users/smlmrt/Desktop/kod_denemeleri/dotnet_kod/kelime_uygulamasi/RentCar/RentCar.Application/obj/Debug/net10.0/RentCar.Application.dll
+/Users/smlmrt/Desktop/kod_denemeleri/dotnet_kod/kelime_uygulamasi/RentCar/RentCar.Application/obj/Debug/net10.0/refint/RentCar.Application.dll
+/Users/smlmrt/Desktop/kod_denemeleri/dotnet_kod/kelime_uygulamasi/RentCar/RentCar.Application/obj/Debug/net10.0/RentCar.Application.pdb
+/Users/smlmrt/Desktop/kod_denemeleri/dotnet_kod/kelime_uygulamasi/RentCar/RentCar.Application/obj/Debug/net10.0/ref/RentCar.Application.dll

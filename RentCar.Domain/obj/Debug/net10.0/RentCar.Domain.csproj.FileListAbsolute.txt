@@ -1,0 +1,11 @@
+/Users/smlmrt/Desktop/kod_denemeleri/dotnet_kod/kelime_uygulamasi/RentCar/RentCar.Domain/bin/Debug/net10.0/RentCar.Domain.deps.json
+/Users/smlmrt/Desktop/kod_denemeleri/dotnet_kod/kelime_uygulamasi/RentCar/RentCar.Domain/bin/Debug/net10.0/RentCar.Domain.dll
+/Users/smlmrt/Desktop/kod_denemeleri/dotnet_kod/kelime_uygulamasi/RentCar/RentCar.Domain/bin/Debug/net10.0/RentCar.Domain.pdb
+/Users/smlmrt/Desktop/kod_denemeleri/dotnet_kod/kelime_uygulamasi/RentCar/RentCar.Domain/obj/Debug/net10.0/RentCar.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/smlmrt/Desktop/kod_denemeleri/dotnet_kod/kelime_uygulamasi/RentCar/RentCar.Domain/obj/Debug/net10.0/RentCar.Domain.AssemblyInfoInputs.cache
+/Users/smlmrt/Desktop/kod_denemeleri/dotnet_kod/kelime_uygulamasi/RentCar/RentCar.Domain/obj/Debug/net10.0/RentCar.Domain.AssemblyInfo.cs
+/Users/smlmrt/Desktop/kod_denemeleri/dotnet_kod/kelime_uygulamasi/RentCar/RentCar.Domain/obj/Debug/net10.0/RentCar.Domain.csproj.CoreCompileInputs.cache
+/Users/smlmrt/Desktop/kod_denemeleri/dotnet_kod/kelime_uygulamasi/RentCar/RentCar.Domain/obj/Debug/net10.0/RentCar.Domain.dll
+/Users/smlmrt/Desktop/kod_denemeleri/dotnet_kod/kelime_uygulamasi/RentCar/RentCar.Domain/obj/Debug/net10.0/refint/RentCar.Domain.dll
+/Users/smlmrt/Desktop/kod_denemeleri/dotnet_kod/kelime_uygulamasi/RentCar/RentCar.Domain/obj/Debug/net10.0/RentCar.Domain.pdb
+/Users/smlmrt/Desktop/kod_denemeleri/dotnet_kod/kelime_uygulamasi/RentCar/RentCar.Domain/obj/Debug/net10.0/ref/RentCar.Domain.dll

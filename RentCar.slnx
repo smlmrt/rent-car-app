@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="RentCar.API/RentCar.API.csproj" />
+  <Project Path="RentCar.Application/RentCar.Application.csproj" />
+  <Project Path="RentCar.Domain/RentCar.Domain.csproj" />
+  <Project Path="RentCar.Infrastructure/RentCar.Infrastructure.csproj" />
+  <Project Path="RentCar.Shared/RentCar.Shared.csproj" />
+</Solution>
